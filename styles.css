@@ -1,0 +1,51 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+#main {
+	font-family: Helvetica, sans-serif;
+	background-color: #eee;
+}
+
+#title {
+	text-align: center;
+	margin-bottom: 30px;
+}
+h1 {
+	font-size: 32px;
+	margin-top: 0px;
+}
+.last{
+	margin-bottom: 0px;
+}
+#img-div {
+	
+}
+
+#image {
+	width: 100%;
+	display: block;
+	margin: 0 auto;
+}
+
+#img-caption {
+	text-align: center;
+	margin: 20px;
+}
+
+#tribute-info {
+	text-align: center;
+}
+ #tribute-info ul {
+ 	max-width: 550px;
+ 	text-align: left;
+ 	margin: 0 auto;
+ }
+
+li {
+	margin: 10px;
+}
+
+blockquote {
+	font-style: italic;
+}
